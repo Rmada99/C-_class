@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ktc\\Documents\\C\u002B\u002B\\25a31a0057\\C-_class\\Over_kadai1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4227EFB7-68D4-428B-A000-9532725F3B94}|Over_kadai1\\Over_kadai1.vcxproj|C:\\Users\\ktc\\Documents\\C\u002B\u002B\\25a31a0057\\C-_class\\Over_kadai1\\Over_kadai1\\Over_kadai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4227EFB7-68D4-428B-A000-9532725F3B94}|Over_kadai1\\Over_kadai1.vcxproj|solutionrelative:Over_kadai1\\Over_kadai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Over_kadai1.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\C\u002B\u002B\\25a31a0057\\C-_class\\Over_kadai1\\Over_kadai1\\Over_kadai1.cpp",
+              "RelativeDocumentMoniker": "Over_kadai1\\Over_kadai1.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Documents\\C\u002B\u002B\\25a31a0057\\C-_class\\Over_kadai1\\Over_kadai1\\Over_kadai1.cpp",
+              "RelativeToolTip": "Over_kadai1\\Over_kadai1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-06T02:21:55.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

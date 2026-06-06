@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ktc\\Documents\\C\u002B\u002B\\25a31a0057\\C-_class\\Over_kadai2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB767CA2-06E1-4A6E-88F6-6C8A655DC620}|Over_kadai2\\Over_kadai2.vcxproj|C:\\Users\\ktc\\Documents\\C\u002B\u002B\\25a31a0057\\C-_class\\Over_kadai2\\Over_kadai2\\Over_kadai2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB767CA2-06E1-4A6E-88F6-6C8A655DC620}|Over_kadai2\\Over_kadai2.vcxproj|solutionrelative:Over_kadai2\\Over_kadai2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB767CA2-06E1-4A6E-88F6-6C8A655DC620}|Over_kadai2\\Over_kadai2.vcxproj|C:\\Users\\ktc\\Documents\\C\u002B\u002B\\25a31a0057\\C-_class\\Over_kadai2\\Over_kadai2\\Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB767CA2-06E1-4A6E-88F6-6C8A655DC620}|Over_kadai2\\Over_kadai2.vcxproj|solutionrelative:Over_kadai2\\Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB767CA2-06E1-4A6E-88F6-6C8A655DC620}|Over_kadai2\\Over_kadai2.vcxproj|C:\\Users\\ktc\\Documents\\C\u002B\u002B\\25a31a0057\\C-_class\\Over_kadai2\\Over_kadai2\\Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB767CA2-06E1-4A6E-88F6-6C8A655DC620}|Over_kadai2\\Over_kadai2.vcxproj|solutionrelative:Over_kadai2\\Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vector2.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\C\u002B\u002B\\25a31a0057\\C-_class\\Over_kadai2\\Over_kadai2\\Vector2.cpp",
+              "RelativeDocumentMoniker": "Over_kadai2\\Vector2.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Documents\\C\u002B\u002B\\25a31a0057\\C-_class\\Over_kadai2\\Over_kadai2\\Vector2.cpp",
+              "RelativeToolTip": "Over_kadai2\\Vector2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-06T03:16:29.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vector2.h",
+              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\C\u002B\u002B\\25a31a0057\\C-_class\\Over_kadai2\\Over_kadai2\\Vector2.h",
+              "RelativeDocumentMoniker": "Over_kadai2\\Vector2.h",
+              "ToolTip": "C:\\Users\\ktc\\Documents\\C\u002B\u002B\\25a31a0057\\C-_class\\Over_kadai2\\Over_kadai2\\Vector2.h",
+              "RelativeToolTip": "Over_kadai2\\Vector2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-06T03:01:36.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Over_kadai2.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\C\u002B\u002B\\25a31a0057\\C-_class\\Over_kadai2\\Over_kadai2\\Over_kadai2.cpp",
+              "RelativeDocumentMoniker": "Over_kadai2\\Over_kadai2.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Documents\\C\u002B\u002B\\25a31a0057\\C-_class\\Over_kadai2\\Over_kadai2\\Over_kadai2.cpp",
+              "RelativeToolTip": "Over_kadai2\\Over_kadai2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-06T02:59:44.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
